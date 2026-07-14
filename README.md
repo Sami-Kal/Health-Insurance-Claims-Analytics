@@ -67,8 +67,9 @@ Kaggle – Medical Cost Personal Dataset
 
 * Power BI Desktop
 * Power Query
-* DAX (Data Analysis Expressions)
+* DAX
 * Data Modeling
+* PowerPoint(For Dashboard wireframing) 
 
 
 # Data Preparation
