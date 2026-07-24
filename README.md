@@ -6,11 +6,7 @@ Healthcare organizations and health insurance providers face increasing pressure
 
 This project analyzes a health insurance claims dataset using Power BI to uncover the demographic, behavioral, and regional factors influencing insurance claim costs. The dashboard provides executives with actionable insights into claims expenditure, risk concentration, and healthcare cost drivers through an interactive, business-focused reporting solution.
 
-
 ## Business Problem
-
-Health insurance providers often struggle to answer critical business questions such as:
-
 * What factors are driving high healthcare claims?
 * Which members are responsible for the largest proportion of claims expenditure?
 * How does smoking influence healthcare costs?
@@ -19,18 +15,13 @@ Health insurance providers often struggle to answer critical business questions 
 * How concentrated are healthcare costs among high-risk members?
 
 Without these insights, organizations may experience:
-
 * Increasing healthcare expenditure
 * Inefficient risk management
 * Poor resource allocation
 * Limited ability to design preventive healthcare programs
 * Reduced profitability and sustainability
 
-
 # Project Objectives
-
-The primary objectives of this project were to:
-
 * Identify the major drivers of healthcare claims costs.
 * Segment members into Low-Medium Risk, and High-Risk cohorts.
 * Compare healthcare costs across demographic groups.
@@ -39,21 +30,16 @@ The primary objectives of this project were to:
 * Identify the concentration of claims among high-cost members.
 * Develop an executive dashboard to support evidence-based decision-making.
 
-
 # Dataset
-
 **Source**
-
 Kaggle – Medical Cost Personal Dataset
 
 **Dataset Characteristics**
-
 * 1,338 insured members
 * Individual-level healthcare insurance information
 * Cross-sectional dataset (no historical claim dates)
 
 **Key Variables**
-
 * Age
 * Sex
 * BMI
@@ -61,21 +47,16 @@ Kaggle – Medical Cost Personal Dataset
 * Smoker Status
 * Region
 * Insurance Cost
-
-
+  
 # Tools Used
-
 * Power BI Desktop
 * Power Query
 * DAX
 * Data Modeling
 * PowerPoint(For Dashboard wireframing) 
 
-
 # Data Preparation
-
-The following data preparation activities were performed:
-
+I took the following steps to prepare my data for analysis:
 * Data quality assessment
 * Data type validation
 * Creation of BMI Categories
@@ -85,130 +66,81 @@ The following data preparation activities were performed:
 * Interactive slicers and drill-down functionality
 * Dashboard optimization and formatting
 
-
 # Dashboard Pages
-
 ## 1. Executive Summary
-
 Provides an executive overview of healthcare claims performance.
 
 ### Key KPIs
-
 * Total Claims Cost
 * Average Claim Cost
 * High-Cost Member Percentage
 * Smoker Cost Ratio
 
 ### Visualizations
-
 * Claims Cost by Region
 * Claims Cost by Risk Segment
 * Average Claim Cost by Age Group
 
-Purpose:
-
-Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
-
+Purpose: Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
 
 ## 2. Cost Driver Analysis
-
 Identifies the major factors influencing healthcare claims.
 
 ### Visualizations
-
 * Average Claim Cost (Smokers vs Non-Smokers)
 * Insurance Cost by BMI Category
 * Age vs Insurance Cost (Scatter Plot)
 * Claims Cost by Region
 * Average Claim Cost by Gender
 
-Purpose:
-
-Understand the variables contributing most significantly to healthcare expenditure.
-
+Purpose: Understand the variables contributing most significantly to healthcare expenditure.
 
 ## 3. Risk Segmentation
-
 Analyzes member risk concentration.
 
 ### Visualizations
-
 * Claims Cost by Risk Cohort
 * Risk Cohort Distribution by Region
 * High-Risk Members by Age Group
 * Top 10% High-Cost Members
 
-Purpose:
-
-Support proactive risk management and identify populations requiring targeted interventions.
-
+Purpose: Support proactive risk management and identify populations requiring targeted interventions.
 
 ## 4. Business Insights & Recommendations
-
-Summarizes the key findings and provides actionable recommendations for healthcare decision-makers.
-
+This page summarizes the key findings and provides actionable recommendations for healthcare decision-makers.
 
 # Business Questions Answered
-
 This dashboard answers the following business questions:
-
 1. Which demographic group incurs the highest healthcare costs?
-
 2. How much more expensive are smokers compared to non-smokers?
-
 3. Which regions contribute the highest healthcare expenditure?
-
 4. What proportion of members are classified as high-cost?
-
 5. How concentrated are healthcare costs among high-risk members?
-
 6. Which age groups should be prioritized for preventive healthcare interventions?
-
 7. Which factors contribute most significantly to rising insurance costs?
 
-
 # Key Insights
-
 * Healthcare costs are highly concentrated among High-Risk members, indicating that a relatively small segment of the insured population accounts for a substantial share of total claims expenditure.
-
 * Smoking remains one of the strongest predictors of increased healthcare costs, with smokers generating significantly higher average claims than non-smokers.
-
 * Claims costs vary across geographical regions, suggesting opportunities for region-specific healthcare planning and resource allocation.
-
 * Middle-aged and older adults generally incur higher average healthcare costs than younger members, highlighting the importance of age-targeted preventive care.
-
 * Risk segmentation provides a practical framework for identifying members who may benefit from early intervention and disease management programs.
 
-
 # Business Recommendations
-
-Based on the analysis, the following recommendations are proposed:
-
+The following recommendations are proposed:
 ### 1. Strengthen Preventive Care Programs
-
 Develop targeted wellness and preventive healthcare initiatives for high-risk and high-cost populations to reduce future claims.
-
 ### 2. Implement Risk-Based Care Management
-
 Use risk segmentation to identify members requiring proactive monitoring and personalized healthcare interventions.
-
 ### 3. Promote Smoking Cessation Programs
-
 Invest in smoking cessation initiatives to reduce long-term healthcare costs and improve member health outcomes.
-
 ### 4. Optimize Regional Resource Allocation
-
 Allocate healthcare resources based on regional claims patterns to improve operational efficiency and healthcare accessibility.
-
 ### 5. Monitor High-Cost Members
-
 Continuously monitor members contributing disproportionately to healthcare expenditure to enable early intervention and effective cost management.
 
-
 # Business Value
-
-This dashboard enables healthcare executives to:
-
+This dashboard/report enables healthcare executives to:
 * Identify key drivers of healthcare expenditure.
 * Improve strategic resource allocation.
 * Strengthen risk management practices.
@@ -216,27 +148,17 @@ This dashboard enables healthcare executives to:
 * Enhance preventive healthcare initiatives.
 * Improve financial sustainability.
 
-
 # Limitations
-
 The source dataset is **cross-sectional** and does not contain historical claim dates. Consequently, the analysis focuses on risk segmentation and healthcare cost drivers rather than longitudinal trend analysis such as month-over-month or year-over-year performance.
 
-
 # Future Enhancements
-
-Potential enhancements include:
-
+Potential areas of improvement:
 * Integration of historical claims data for time-series analysis.
 * Incorporation of diagnosis and procedure information.
 * Analysis of claims frequency and healthcare utilization.
 * Provider and hospital performance analytics.
-* Predictive modeling for high-risk member identification using machine learning.
-* Geographic mapping of claims distribution.
-* Readmission and chronic disease analysis.
-
 
 # Skills Demonstrated
-
 * Data Cleaning
 * Data Modeling
 * DAX Measure Development
@@ -249,5 +171,4 @@ Potential enhancements include:
 * Interactive Dashboard Development
 
 # Conclusion
-
-This project demonstrates how business intelligence can transform healthcare claims data into actionable insights. By identifying cost drivers, segmenting risk, and highlighting opportunities for targeted interventions, the dashboard provides decision-makers with the information needed to optimize healthcare spending, improve member outcomes, and support sustainable health insurance operations.
+This project demonstrates how business intelligence can transform healthcare claims data into actionable insights. By identifying cost drivers, segmenting risk, and highlighting opportunities for targeted interventions, the dashboard/report provides decision-makers with the information needed to optimize healthcare spending, improve member outcomes, and support sustainable health insurance operations.
