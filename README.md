@@ -22,16 +22,16 @@ Without these insights, organizations may experience:
 * Reduced profitability and sustainability
 
 # Project Objectives
-* Identify the major drivers of healthcare claims costs.
-* Segment members into Low-Medium Risk, and High-Risk cohorts.
-* Compare healthcare costs across demographic groups.
-* Evaluate the financial impact of smoking on healthcare expenditure.
-* Analyze claims distribution across different geographical regions.
-* Identify the concentration of claims among high-cost members.
-* Develop an executive dashboard to support evidence-based decision-making.
+1. Identify the major drivers of healthcare claims costs.
+2. Segment members into Low-Medium Risk, and High-Risk cohorts.
+3. Compare healthcare costs across demographic groups.
+4. Evaluate the financial impact of smoking on healthcare expenditure.
+5. Analyze claims distribution across different geographical regions.
+6. Identify the concentration of claims among high-cost members.
+7. Develop an executive dashboard to support evidence-based decision-making.
 
 # Dataset
-**Source** Kaggle – Medical Cost Personal Dataset
+**Source:** Kaggle – Medical Cost Personal Dataset
 
 **Dataset Characteristics**
 * 1,338 insured members
@@ -80,7 +80,7 @@ This segment provides an executive overview of healthcare claims performance.
 * Claims Cost by Risk Segment
 * Average Claim Cost by Age Group
 
-Purpose: Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
+***Purpose:*** Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
 
 ## 2. Cost Driver Analysis
 This segment Identifies the major factors influencing healthcare claims.
@@ -92,7 +92,7 @@ This segment Identifies the major factors influencing healthcare claims.
 * Claims Cost by Region
 * Average Claim Cost by Gender
 
-Purpose: Understand the variables contributing most significantly to healthcare expenditure.
+***Purpose:*** Understand the variables contributing most significantly to healthcare expenditure.
 
 ## 3. Risk Segmentation
 This segment analyzes the risk member concentration.
@@ -119,11 +119,11 @@ This dashboard answers the following business questions:
 7. Which factors contribute most significantly to rising insurance costs?
 
 # Key Insights
-* Healthcare costs are highly concentrated among High-Risk members, indicating that a relatively small segment of the insured population accounts for a substantial share of total claims expenditure.
-* Smoking remains one of the strongest predictors of increased healthcare costs, with smokers generating significantly higher average claims than non-smokers.
-* Claims costs vary across geographical regions, suggesting opportunities for region-specific healthcare planning and resource allocation.
-* Middle-aged and older adults generally incur higher average healthcare costs than younger members, highlighting the importance of age-targeted preventive care.
-* Risk segmentation provides a practical framework for identifying members who may benefit from early intervention and disease management programs.
+1. Healthcare costs are highly concentrated among High-Risk members, indicating that a relatively small segment of the insured population accounts for a substantial share of total claims expenditure.
+2. Smoking remains one of the strongest predictors of increased healthcare costs, with smokers generating significantly higher average claims than non-smokers.
+3. Claims costs vary across geographical regions, suggesting opportunities for region-specific healthcare planning and resource allocation.
+4. Middle-aged and older adults generally incur higher average healthcare costs than younger members, highlighting the importance of age-targeted preventive care.
+5. Risk segmentation provides a practical framework for identifying members who may benefit from early intervention and disease management programs.
 
 # Business Recommendations
 The following recommendations are proposed:
@@ -135,22 +135,22 @@ The following recommendations are proposed:
 
 # Business Value
 This dashboard/report enables healthcare executives to:
-* Identify key drivers of healthcare expenditure.
-* Improve strategic resource allocation.
-* Strengthen risk management practices.
-* Support evidence-based healthcare planning.
-* Enhance preventive healthcare initiatives.
-* Improve financial sustainability.
+1. Identify key drivers of healthcare expenditure.
+2. Improve strategic resource allocation.
+3. Strengthen risk management practices.
+4. Support evidence-based healthcare planning.
+5. Enhance preventive healthcare initiatives.
+6. Improve financial sustainability.
 
 # Limitations
 The source dataset is **cross-sectional** and does not contain historical claim dates. Consequently, the analysis focuses on risk segmentation and healthcare cost drivers rather than longitudinal trend analysis such as month-over-month or year-over-year performance.
 
 # Future Enhancements
 Potential areas of improvement:
-* Integration of historical claims data for time-series analysis.
-* Incorporation of diagnosis and procedure information.
-* Analysis of claims frequency and healthcare utilization.
-* Provider and hospital performance analytics.
+1. Integration of historical claims data for time-series analysis.
+2. Incorporation of diagnosis and procedure information.
+3. Analysis of claims frequency and healthcare utilization.
+4. Provider and hospital performance analytics.
 
 # Skills Demonstrated
 * Data Cleaning
