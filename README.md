@@ -7,12 +7,12 @@ Healthcare organizations and health insurance providers face increasing pressure
 This project analyzes a health insurance claims dataset using Power BI to uncover the demographic, behavioral, and regional factors influencing insurance claim costs. The dashboard provides executives with actionable insights into claims expenditure, risk concentration, and healthcare cost drivers through an interactive, business-focused reporting solution.
 
 ## Business Problem
-* What factors are driving high healthcare claims?
-* Which members are responsible for the largest proportion of claims expenditure?
-* How does smoking influence healthcare costs?
-* Which demographic groups incur the highest medical expenses?
-* Which geographical regions generate the highest claims costs?
-* How concentrated are healthcare costs among high-risk members?
+1. What factors are driving high healthcare claims?
+2. Which members are responsible for the largest proportion of claims expenditure?
+3. How does smoking influence healthcare costs?
+4. Which demographic groups incur the highest medical expenses?
+5. Which geographical regions generate the highest claims costs?
+6. How concentrated are healthcare costs among high-risk members?
 
 Without these insights, organizations may experience:
 * Increasing healthcare expenditure
@@ -31,8 +31,7 @@ Without these insights, organizations may experience:
 * Develop an executive dashboard to support evidence-based decision-making.
 
 # Dataset
-**Source**
-Kaggle – Medical Cost Personal Dataset
+**Source** Kaggle – Medical Cost Personal Dataset
 
 **Dataset Characteristics**
 * 1,338 insured members
@@ -68,7 +67,7 @@ I took the following steps to prepare my data for analysis:
 
 # Dashboard Pages
 ## 1. Executive Summary
-Provides an executive overview of healthcare claims performance.
+This segment provides an executive overview of healthcare claims performance.
 
 ### Key KPIs
 * Total Claims Cost
@@ -84,7 +83,7 @@ Provides an executive overview of healthcare claims performance.
 Purpose: Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
 
 ## 2. Cost Driver Analysis
-Identifies the major factors influencing healthcare claims.
+This segment Identifies the major factors influencing healthcare claims.
 
 ### Visualizations
 * Average Claim Cost (Smokers vs Non-Smokers)
@@ -96,7 +95,7 @@ Identifies the major factors influencing healthcare claims.
 Purpose: Understand the variables contributing most significantly to healthcare expenditure.
 
 ## 3. Risk Segmentation
-Analyzes member risk concentration.
+This segment analyzes the risk member concentration.
 
 ### Visualizations
 * Claims Cost by Risk Cohort
@@ -128,16 +127,11 @@ This dashboard answers the following business questions:
 
 # Business Recommendations
 The following recommendations are proposed:
-### 1. Strengthen Preventive Care Programs
-Develop targeted wellness and preventive healthcare initiatives for high-risk and high-cost populations to reduce future claims.
-### 2. Implement Risk-Based Care Management
-Use risk segmentation to identify members requiring proactive monitoring and personalized healthcare interventions.
-### 3. Promote Smoking Cessation Programs
-Invest in smoking cessation initiatives to reduce long-term healthcare costs and improve member health outcomes.
-### 4. Optimize Regional Resource Allocation
-Allocate healthcare resources based on regional claims patterns to improve operational efficiency and healthcare accessibility.
-### 5. Monitor High-Cost Members
-Continuously monitor members contributing disproportionately to healthcare expenditure to enable early intervention and effective cost management.
+1. Strengthen Preventive Care Programs: Develop targeted wellness and preventive healthcare initiatives for high-risk and high-cost populations to reduce future claims.
+2. Implement Risk-Based Care Management: Use risk segmentation to identify members requiring proactive monitoring and personalized healthcare interventions.
+3. Promote Smoking Cessation Programs: Invest in smoking cessation initiatives to reduce long-term healthcare costs and improve member health outcomes.
+4. Optimize Regional Resource Allocation: Allocate healthcare resources based on regional claims patterns to improve operational efficiency and healthcare accessibility.
+5. Monitor High-Cost Members: Continuously monitor members contributing disproportionately to healthcare expenditure to enable early intervention and effective cost management.
 
 # Business Value
 This dashboard/report enables healthcare executives to:
