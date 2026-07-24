@@ -31,7 +31,7 @@ Without these insights, organizations may experience:
 7. Develop an executive dashboard to support evidence-based decision-making.
 
 # Dataset
-**Source:** Kaggle – Medical Cost Personal Dataset
+**Source:** Kaggle-Medical Cost Personal Dataset
 
 **Dataset Characteristics**
 * 1,338 insured members
