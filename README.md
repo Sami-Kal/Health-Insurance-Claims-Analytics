@@ -67,6 +67,7 @@ I took the following steps to prepare my data for analysis:
 
 # Dashboard Pages
 ## 1. Executive Summary
+![Executive Summary]
 This segment provides an executive overview of healthcare claims performance.
 
 ### Key KPIs
