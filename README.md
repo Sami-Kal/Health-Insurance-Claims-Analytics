@@ -84,6 +84,7 @@ This segment provides an executive overview of healthcare claims performance.
 ***Purpose:*** Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
 
 ## 2. Cost Driver Analysis
+![Cost Driver Analysis](cost-driver-analysis.jpeg)
 This segment Identifies the major factors influencing healthcare claims.
 
 ### Visualizations
@@ -96,6 +97,7 @@ This segment Identifies the major factors influencing healthcare claims.
 ***Purpose:*** Understand the variables contributing most significantly to healthcare expenditure.
 
 ## 3. Risk Segmentation
+![Risk Segmentation](risk-segmentation.jpeg)
 This segment analyzes the risk member concentration.
 
 ### Visualizations
@@ -107,6 +109,7 @@ This segment analyzes the risk member concentration.
 Purpose: Support proactive risk management and identify populations requiring targeted interventions.
 
 ## 4. Business Insights & Recommendations
+![Business Insights](business-insights.jpeg)
 This page summarizes the key findings and provides actionable recommendations for healthcare decision-makers.
 
 # Business Questions Answered
