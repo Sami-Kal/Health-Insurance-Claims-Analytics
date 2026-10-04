@@ -1,7 +1,7 @@
 # Health Insurance Claims Analytics Dashboard
+This is an executive Power BI dashboard uncovering the demographic, behavioral, and regional factors driving healthcare insurance costs; built to support risk management, resource allocation, and evidence-based decision-making.
 
 ## Project Overview
-
 Healthcare organizations and health insurance providers face increasing pressure to control rising claims costs while maintaining quality healthcare delivery. Identifying the key drivers of healthcare expenditure, understanding member risk profiles, and recognizing high-cost populations are essential for informed decision-making and sustainable healthcare financing.
 
 This project analyzes a health insurance claims dataset using Power BI to uncover the demographic, behavioral, and regional factors influencing insurance claim costs. The dashboard provides executives with actionable insights into claims expenditure, risk concentration, and healthcare cost drivers through an interactive, business-focused reporting solution.
@@ -81,7 +81,7 @@ This segment provides an executive overview of healthcare claims performance.
 * Claims Cost by Risk Segment
 * Average Claim Cost by Age Group
 
-***Purpose:*** Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
+**Purpose:** Provide executives with a concise overview of portfolio performance and healthcare cost distribution.
 
 ## 2. Cost Driver Analysis
 ![Cost Driver Analysis](cost-driver-analysis.jpeg)
@@ -94,7 +94,7 @@ This segment Identifies the major factors influencing healthcare claims.
 * Claims Cost by Region
 * Average Claim Cost by Gender
 
-***Purpose:*** Understand the variables contributing most significantly to healthcare expenditure.
+**Purpose:** Understand the variables contributing most significantly to healthcare expenditure.
 
 ## 3. Risk Segmentation
 ![Risk Segmentation](risk-segmentation.jpeg)
@@ -106,7 +106,7 @@ This segment analyzes the risk member concentration.
 * High-Risk Members by Age Group
 * Top 10% High-Cost Members
 
-Purpose: Support proactive risk management and identify populations requiring targeted interventions.
+**Purpose:** Support proactive risk management and identify populations requiring targeted interventions.
 
 ## 4. Business Insights & Recommendations
 ![Business Insights](business-insights.jpeg)
