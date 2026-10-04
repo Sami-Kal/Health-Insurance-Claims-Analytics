@@ -1,5 +1,5 @@
 # Health Insurance Claims Analytics Dashboard
-This is an executive Power BI dashboard uncovering the demographic, behavioral, and regional factors driving healthcare insurance costs; built to support risk management, resource allocation, and evidence-based decision-making.
+This is an executive Power BI dashboard uncovering the demographic, behavioural, and regional factors driving healthcare insurance costs; built to support risk management, resource allocation, and evidence-based decision-making.
 
 ## Project Overview
 Healthcare organizations and health insurance providers face increasing pressure to control rising claims costs while maintaining quality healthcare delivery. Identifying the key drivers of healthcare expenditure, understanding member risk profiles, and recognizing high-cost populations are essential for informed decision-making and sustainable healthcare financing.
